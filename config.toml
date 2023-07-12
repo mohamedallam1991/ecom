@@ -46,12 +46,12 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
+description = "This is ECOM Tlemcen"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "Cafe Dubai, Imama. Tlemcen"
+mobile = "+213 123 123 123"
+email = "info@ecom13.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analytics
@@ -290,3 +290,4 @@ url = "scholarship/"
 identifier = "research"
 name = "Recherche"
 url = "research/"
+#  hugo --gc --minify -D -b $CF_PAGES_URL
